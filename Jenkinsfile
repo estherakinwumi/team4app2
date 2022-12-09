@@ -1,2 +1,2 @@
 @library('team4-shared-library') _
-etechApp 'https://github.com/estherakinwumi/team4app1.git'
+estherApp 'https://github.com/estherakinwumi/team4app1.git'git
